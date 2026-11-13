@@ -46,9 +46,9 @@ If `lumapi` is not importable, set `LUMAPI_PATH` to Lumerical's `api/python` fol
 
 Generated into `images/` by `analysis/plot_results.py`:
 
-![Coarse sweep](images/02_varfdtd_sweep_coarse.png)
-![Fine sweep](images/03_varfdtd_sweep_fine.png)
-![varFDTD vs 3D FDTD](images/04_varfdtd_vs_fdtd3d.png)
+![Coarse sweep](reference_model/images/02_varfdtd_sweep_coarse.png)
+![Fine sweep](reference_model/images/03_varfdtd_sweep_fine.png)
+![varFDTD vs 3D FDTD](reference_model/images/04_varfdtd_vs_fdtd3d.png)
 
 ## Analytical cross-check
 
