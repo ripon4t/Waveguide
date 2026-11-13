@@ -2,7 +2,7 @@
 
 Optimization of a silicon waveguide taper using **Ansys Lumerical MODE (2.5D varFDTD)** for a fast shape sweep and **Lumerical FDTD (3D)** as a full-vector check, both driven from Python through `lumapi`.
 
-![Taper shape family](images/01_taper_shapes.png)
+![Taper shape family](reference_model/images/01_taper_shapes.png)
 
 ## Problem
 
